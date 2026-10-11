@@ -1,0 +1,6 @@
+{
+  "name": "Gold Clean - Lavado de Alfombras y Tapices",
+  "description": "Lavado de alfombras, sillones y tapices a domicilio en Santiago. Retiro y entrega gratis, listo en 48–72 h y pagas a la entrega. Cotiza por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
